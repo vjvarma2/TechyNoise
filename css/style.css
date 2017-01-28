@@ -104,6 +104,12 @@ hr.style14 {
      box-shadow: inset 0px -10px 8px -6px #5F5F5F , inset 0px 10px 8px -6px #5F5F5F ;
 }
 
+.logo-dimensions {
+    width: 100px;
+    height: 100px;
+    display: block;
+}
+
 
 
 
