@@ -105,9 +105,9 @@ hr.style14 {
 }
 
 .logo-dimensions {
-    width: 100px;
-    height: 100px;
-    display: block;
+    width: 100px !important;
+    height: 100px !important;
+    display: block !important;
 }
 
 
